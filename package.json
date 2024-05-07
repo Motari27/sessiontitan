@@ -6,7 +6,7 @@
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node Jabez-Motari.js"
+    "start": "node jabez-motari.js"
   },
   "author": "Jabez-Motari",
   "license": "GPL-3.0 license",
