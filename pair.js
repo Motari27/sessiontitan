@@ -68,10 +68,10 @@ ____________________________________
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ WA CHANNEL: _
+║❒ WA CHANNEL: _https://whatsapp.com/channel/0029VaLYCPXJENxtW7BU9a0u_
 ║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/254732647560_
 ║❒ Github: _https://github.com/Motari27_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/Gt1kfUU0w2l70RvMJCzd8P_
 ║ 💜💜💜
 ╚════════════════════╝ 
  *TITAN TECH*
