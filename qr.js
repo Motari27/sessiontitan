@@ -14,7 +14,7 @@ const {
 	Browsers,
 	delay,
 	makeInMemoryStore,
-} = require("jabez-motari-baileys");
+} = require("maher-zubair-baileys");
 
 function removeFile(FilePath) {
 	if (!fs.existsSync(FilePath)) return false;
